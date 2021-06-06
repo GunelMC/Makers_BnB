@@ -1,4 +1,4 @@
-# MakersBnB
+# MakersBnB (Group Project)
 
 A web application that allows users to list spaces they have available, and to hire spaces for the night.
 
@@ -33,7 +33,7 @@ As a user,
 So that I can use the website,
 I want to be able to sign up.
 
-As a user, 
+As a user,
 So that others can view my property,
 I want to list a property.
 
@@ -54,3 +54,11 @@ So that I can rent a space for a night,
 I want to make a request to book a listing.
 
 ```
+
+## Credits
+
+- Jonny Kelly
+- Arif Ebrahim
+- Felix Piercy
+- Jenny Bell
+- Willoughby Hood
